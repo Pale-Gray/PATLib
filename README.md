@@ -17,7 +17,7 @@ To use the `Audio` class, here are the steps:
 
 Instantiate a new Audio using `Audio [name];`.
 Then, in the main method, do this:
-`[name] = new Audio("/pathtofile.wav");
+`[name] = new Audio("/pathtofile.wav");`
 all texture and audio files must be in a `res` source folder!!!
 
 There are two methods for playing and stopping audio
