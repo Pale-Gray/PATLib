@@ -2,6 +2,9 @@
 
 ![IMG](readme/patlibimage.png "PATLibImage")
 
+# **NOTICE**
+I realize now that this is literally just some code I typed off from another website/StackOverflow answers so... yeah
+
 A simple image loading / audio library for Java
 
 **ABOUT**
